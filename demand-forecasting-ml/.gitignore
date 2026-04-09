@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+demand-forecasting-ml/data/
+*.txt
+data/
+anexos/
+*.zip
+*.csv
+*.pyc
+.env
+.ipynb_checkpoints/
